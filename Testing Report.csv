@@ -1,0 +1,9 @@
+
+Test Case ID,Test Case Description,Expected Result,Actual Result,Status (Pass/Fail),Remarks
+TC001,User can add items to cart,Items should appear in cart,Items successfully added,Pass,-
+TC002,User can place an order,Order should be stored in Sanity,Order stored correctly,Pass,-
+TC003,Retrieve user order data from Sanity,Orders should be displayed correctly,Orders retrieved successfully,Pass,-
+
+Bug ID,Description,Severity (Low/Medium/High),Status (Open/Closed),Reported By,Assigned To
+BUG001,Checkout page delay in processing,Medium,Open,Zain Khan,Dev Team
+BUG002,UI misalignment on mobile view,Low,Open,Zain Khan,UI Team
